@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>depositphotos_28144889-stock-photo-crumpled-white-paper-on-wood.jpg</filename>
+	<path>/my-project-name/depositphotos_28144889-stock-photo-crumpled-white-paper-on-wood.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>page</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>67</ymin>
+			<xmax>347</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

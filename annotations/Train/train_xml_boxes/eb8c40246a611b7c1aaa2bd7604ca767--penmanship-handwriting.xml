@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>eb8c40246a611b7c1aaa2bd7604ca767--penmanship-handwriting.jpg</filename>
+	<path>/my-project-name/eb8c40246a611b7c1aaa2bd7604ca767--penmanship-handwriting.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>632</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>page</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>52</ymin>
+			<xmax>444</xmax>
+			<ymax>616</ymax>
+		</bndbox>
+	</object>
+</annotation>

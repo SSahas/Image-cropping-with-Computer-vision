@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>depositphotos_418200594-stock-photo-old-grunge-weathered-peeled-painted.jpg</filename>
+	<path>/my-project-name/depositphotos_418200594-stock-photo-old-grunge-weathered-peeled-painted.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>398</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>page</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>71</ymin>
+			<xmax>352</xmax>
+			<ymax>530</ymax>
+		</bndbox>
+	</object>
+</annotation>

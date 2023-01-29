@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>depositphotos_7318267-stock-photo-white-paper-on-wood-table.jpg</filename>
+	<path>/my-project-name/depositphotos_7318267-stock-photo-white-paper-on-wood-table.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>page</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>93</ymin>
+			<xmax>355</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

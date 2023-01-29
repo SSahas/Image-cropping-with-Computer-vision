@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>iiif-service_vhp_0320_032004_pm0005003-full-pct_6.25-0-default.jpg</filename>
+	<path>/my-project-name/iiif-service_vhp_0320_032004_pm0005003-full-pct_6.25-0-default.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>148</width>
+		<height>207</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>page</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>8</ymin>
+			<xmax>141</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

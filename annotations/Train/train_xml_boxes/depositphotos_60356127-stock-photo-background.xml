@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>depositphotos_60356127-stock-photo-background.jpg</filename>
+	<path>/my-project-name/depositphotos_60356127-stock-photo-background.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>page</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>54</ymin>
+			<xmax>400</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+</annotation>

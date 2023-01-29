@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>depositphotos_392760882-stock-photo-white-paper-sheet-wood-business.jpg</filename>
+	<path>/my-project-name/depositphotos_392760882-stock-photo-white-paper-sheet-wood-business.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>445</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>page</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>32</ymin>
+			<xmax>411</xmax>
+			<ymax>566</ymax>
+		</bndbox>
+	</object>
+</annotation>
