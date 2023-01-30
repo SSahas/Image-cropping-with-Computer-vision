@@ -8,7 +8,8 @@ crop images automatically with computer vision techniques
 
 ## Objective 
 
-Crop the the image automatically, as shown below  
+Crop the the image automatically, as shown below. 
+Trained Pretrained models like ssd mobilnet, yolov5 and built a custom neural network.
 
 
 
