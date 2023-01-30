@@ -4,7 +4,14 @@ crop images automatically with computer vision techniques
 
 >framework  :Tensorflow 
 
->Data and bounding box augumentation : albumentations 
+>Images and bounding box augumentation : albumentations 
+
+## Objective 
+
+Crop the the image automatically, as shown below  
+
+
+
 
 Original image             |  Croped image(Predicted)
 :-------------------------:|:-------------------------:
@@ -15,6 +22,6 @@ Original image             |  Croped image(Predicted)
 
 | Model | Accuracy | mAP(0.5) | Inference time(s) |
 | ------ | ------ | ------ | ------ |
-| Yolov5 | 0.996 |  0.99 | 0.298 |
-| custom neural network | 0.759 | 0.418 | 0.138 |
-| ssd mobile net Tensorflow | 0.987 | 0.817 | 0.08 |
+| Yolov5(680 X 680) | 0.996 |  0.99 | 0.298 |
+| custom neural network(224 X 224) | 0.759 | 0.418 | 0.138 |
+| ssd mobile net Tensorflow(320 X 320) | 0.987 | 0.817 | 0.08 |
