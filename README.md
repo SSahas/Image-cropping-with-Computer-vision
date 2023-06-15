@@ -13,15 +13,15 @@ Performed image augumentation on images using albumentations library and trained
 
 ## Objective 
 
+
 Crop the the image automatically, as shown below. 
 Trained Pretrained models like ssd mobilnet, yolov5 and built a custom neural network.
 
 
 
 
-Original image             |  Croped image(Predicted)
-:-------------------------:|:-------------------------:
-<img src="Images/Test/058eeccda566ce0132bd7a2ffe3f5272.jpg" width = "395" height = "500">  |  <img src="Images/cropped_image.png" width = "395" height = "500">
+
+![intro PNG](https://github.com/SSahas/Image-cropping-with-Computer-vision/assets/82393353/aa534e0c-febf-4b37-9a4b-c7ef371791de)
 
 
 ## Results 
