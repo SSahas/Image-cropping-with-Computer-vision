@@ -6,7 +6,7 @@
 
 >Images and bounding box augumentation : albumentations 
 
-Total 88 handwritten images were collected and used [makesense.ai](https://www.makesense.ai/) for bounding box annotation.Built a custom neural network using tensorflow keras to predict bounding box co-ordinates and also used transfer learning techniques like retrainng ssd mobilenet pretrained model using tensorflow object detection api and also retrained yolov5 model using pytorch and compared the results.
+Handwritten images were collected and used [makesense.ai](https://www.makesense.ai/) for bounding box annotation.Built a custom neural network using tensorflow keras to predict bounding box co-ordinates and also used transfer learning techniques like retrainng ssd mobilenet pretrained model using tensorflow object detection api and also retrained yolov5 model using pytorch and compared the results.
 
 Performed image augumentation on images using albumentations library and trained the custom neural network on a total of 176 images.
 
