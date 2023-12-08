@@ -24,7 +24,7 @@ The model Crops the the image automatically, as shown below.
 ![intro PNG](https://github.com/SSahas/Image-cropping-with-Computer-vision/assets/82393353/aa534e0c-febf-4b37-9a4b-c7ef371791de)
 
 NOTE : To see the Tensorflow_neural_network.ipynb code please view it on colab here : https://colab.research.google.com/drive/1al5VwJEMDkp_NHlQQEaJnF14PALCNUEO#scrollTo=dxuGKZSUGobx.
-(The file is sometimes not rendered on github  as it big (4.8 MB)) 
+(The file  sometimes won't get rendered properly on github  as it big (4.8 MB)) 
 
 ## Results 
 
