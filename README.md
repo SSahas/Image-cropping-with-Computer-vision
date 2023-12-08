@@ -1,5 +1,8 @@
 # Image-cropping-with-CV
 
+NOTE : To see the code , please clone the repository or downnload the specific file because some times the code in the file is not getting rendered as the file size to big(4.8 MB)
+
+
 crop images automatically with computer vision techniques
 
 >framework  :Tensorflow 
