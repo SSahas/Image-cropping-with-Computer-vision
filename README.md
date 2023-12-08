@@ -1,12 +1,5 @@
 # Image-cropping-with-CV
 
-NOTE : To see the Tensorflow_neural_network.ipynb code please view it on colab here : https://colab.research.google.com/drive/1al5VwJEMDkp_NHlQQEaJnF14PALCNUEO#scrollTo=dxuGKZSUGobx.
-(The file is sometimes not rendered on github  as it big (4.8 MB)) 
-
-
-
-
-
 ### crop images automatically with computer vision techniques
 
 >framework  :Tensorflow 
@@ -30,6 +23,8 @@ Trained Pretrained models like ssd mobilnet, yolov5 and built a custom neural ne
 
 ![intro PNG](https://github.com/SSahas/Image-cropping-with-Computer-vision/assets/82393353/aa534e0c-febf-4b37-9a4b-c7ef371791de)
 
+NOTE : To see the Tensorflow_neural_network.ipynb code please view it on colab here : https://colab.research.google.com/drive/1al5VwJEMDkp_NHlQQEaJnF14PALCNUEO#scrollTo=dxuGKZSUGobx.
+(The file is sometimes not rendered on github  as it big (4.8 MB)) 
 
 ## Results 
 
