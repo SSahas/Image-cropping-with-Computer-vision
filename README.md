@@ -1,7 +1,7 @@
 # Image-cropping-with-CV
 
-NOTE : To see the  , please clone the repository or downnload the specific file [Here](https://drive.google.com/file/d/1Xx1au630oHXj87Z9QPSfBOnZKO30BDLz/view?usp=sharing) because some times the code in the file is not getting rendered as the file size is big(4.8 MB)
-
+NOTE : To see the Tensorflow_neural_network.ipynb code please view it on colab here : https://colab.research.google.com/drive/1al5VwJEMDkp_NHlQQEaJnF14PALCNUEO#scrollTo=dxuGKZSUGobx.
+(The file is sometimes not rendered as it big (4.8 MB))
 
 crop images automatically with computer vision techniques
 
