@@ -16,7 +16,7 @@ Performed image augumentation on images using albumentations library and trained
 
 ## Objective 
 
-
+### Example Image
 Crop the the image automatically, as shown below. 
 Trained Pretrained models like ssd mobilnet, yolov5 and built a custom neural network.
 
