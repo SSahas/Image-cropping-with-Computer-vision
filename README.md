@@ -1,6 +1,6 @@
 # Image-cropping-with-CV
 
-NOTE : To see the code , please clone the repository or downnload the specific file because some times the code in the file is not getting rendered as the file size to big(4.8 MB)
+NOTE : To see the  , please clone the repository or downnload the specific file [Here](https://drive.google.com/file/d/1Xx1au630oHXj87Z9QPSfBOnZKO30BDLz/view?usp=sharing) because some times the code in the file is not getting rendered as the file size is big(4.8 MB)
 
 
 crop images automatically with computer vision techniques
